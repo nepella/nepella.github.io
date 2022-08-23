@@ -1,5 +1,8 @@
 ---
 
+plugins:
+  - jekyll-titles-from-headings
+
 defaults:
   - scope:
       path: ""
@@ -16,3 +19,7 @@ defaults:
 kramdown:
   parse_block_html: true
   smart_quotes: ["apos", "apos", "quot", "quot"]
+
+titles_from_headings:
+  strip_title: true
+  collections: true
