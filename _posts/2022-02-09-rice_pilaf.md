@@ -16,12 +16,11 @@
 * A spoonful (10 g) of butter.
 
 ## Procedure
-1. Heat a pan on a large burner set to no. 5 for 3 minutes.
+1. Heat a pan on a large burner set to medium-high (no. 5 on my stove) for 3 minutes.
 2. Meanwhile, boil water and measure out at least two cups of it for quenching.
-   [My measuring cup is too small to hold it all.]
 3. Toast the rice in the oil for 90 seconds, stirring continually.
 4. Immediately pour the water onto the rice.
 5. Add any remaining water, the wild rice, the bullion, the seasonings, and the butter.
-6. When the rice returns to a simmer, cover it, reduce the heat to no. 2.5., and cook it for 45 minutes.
+6. When the rice returns to a simmer, cover it, reduce the heat to medium-low (no. 2.5), and cook it until almost all of the liquid is absorbed (45 to 55 minutes on my stove).
 7. Extinguish the heat, and let the rice rest 10 minutes.
 8. Fluff the rice with a fork.
