@@ -2,14 +2,17 @@
 title: Home
 ---
 
-Home, home on the range.
+Welcome to my personal website.
 
-# Blog posts
+## Articles
 <ul>
-    {% for post in site.posts %}
-    <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-    </li>
-    {% endfor %}
+  {% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
+
+---
+
+<footer>
+  The design of this website is <a href="https://danluu.com/web-bloat/">deliberately simple</a>.
+</footer>

@@ -6,8 +6,13 @@ defaults:
       type: posts
     values:
       layout: post
+      permalink: /:year/:month/:title/
   - scope:
       path: ""
       type: pages
     values:
       layout: default
+
+kramdown:
+  parse_block_html: true
+  smart_quotes: ["apos", "apos", "quot", "quot"]
