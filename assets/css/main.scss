@@ -78,13 +78,8 @@ footer {
 
 .dual {
     display: flex;
-    .ingredients, .procedure {
-        flex: 1 1 auto;
-    }
-    .ingredients {
-        width: 25em;
-    }
-    .procedure {
-        width: 25em;
+    flex-wrap: wrap;
+    section {
+        flex: 1 1 50%;
     }
 }
