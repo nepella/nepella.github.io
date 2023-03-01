@@ -41,8 +41,8 @@ nav > a {
 }
 
 article {
-    > p:not(:first-of-type)
-    , section > p:not(:first-of-type) {
+    > p + p
+    , section > p + p {
         text-indent: 1em;
     }
 }
