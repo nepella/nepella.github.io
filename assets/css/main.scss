@@ -36,23 +36,8 @@ sup[role=doc-noteref] {
     border-top: 1px solid;
 }
 
-nav {
-    a {
-        color: blue;
-    }
-
-    .current {
-        text-decoration: none;
-        color: unset;
-    }
-
-    .current:before {
-        content: "[";
-    }
-
-    .current:after {
-        content: "]";
-    }
+nav > a {
+    color: blue;
 }
 
 article {

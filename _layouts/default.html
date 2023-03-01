@@ -10,7 +10,11 @@
   <meta name="robots" content="noindex">
 </head>
 <body>
-  {% include navigation.html %}
+  {% if page.url != "/" %}
+  <nav>
+    <a href="/">Back</a>
+  </nav>
+  {% endif %}
   <h1>{{ page.title }}</h1>
   {{ content }}
 </body>

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Bunny's website
 ---
 
 Welcome to my personal website.
