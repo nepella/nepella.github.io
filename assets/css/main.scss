@@ -21,6 +21,9 @@ blockquote {
     padding-left: 1em;
 }
 
+.smallcaps {
+    font-variant: small-caps;
+}
 sup[role=doc-noteref] {
     font-size: inherit;
     vertical-align: baseline;
@@ -67,4 +70,9 @@ footer {
     section {
         flex: 1 1 50%;
     }
+}
+
+img {
+    width: 100%;
+    display: block;
 }
