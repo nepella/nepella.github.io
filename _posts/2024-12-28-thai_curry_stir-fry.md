@@ -41,7 +41,7 @@ Don't overheat the sauce with the coconut milk.[^overheat]
 * Cashews.
 
 [^msg]:
-    I buy MakE It Meaty-brand I+G [from Amazon] and mix MSG 9–1 by weight with I+G.
+    I buy Make It Meaty-brand I+G [from Amazon] and mix MSG 9–1 by weight with I+G.
     If you don't have MSG, you could probably replace the salt and MSG with broth?
     But you should just buy some MSG and thank me later: it literally stands for "makes stuff good."
     With salt, it's also an effective substitute for chicken broth or Better Than Bouillon paste in most places.
