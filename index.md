@@ -10,6 +10,9 @@ Welcome to my personal website.
   {%- if post.unlisted != true %}
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {%- if post.list_date == true -%}
+      {{ post.date | date: " (%Y)" -}}
+    {% endif %}
   </li>
   {%- endif %}
   {%- endfor %}
