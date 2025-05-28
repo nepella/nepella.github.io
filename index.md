@@ -13,6 +13,9 @@ Welcome to my personal website.
     {%- if post.list_date == true -%}
       {{ post.date | date: " (%Y)" -}}
     {% endif %}
+    {%- if post.summary %}
+    <div>{{ post.summary }}</div>
+    {%- endif %}
   </li>
   {%- endif %}
   {%- endfor %}
