@@ -1,4 +1,7 @@
 # Thai curry stir-fry
+
+<img src="{{ '/assets/images/25-P-107332.avif' | relative_url }}" />
+
 ## Sauce
 ### Ingredients
 #### Simmering
